@@ -1,0 +1,26 @@
+
+.flex{
+    height:100vh;
+    width:100vw;
+    display: flex;
+    justify-content: center;
+    padding-top: 20px;
+}
+.inp{
+    padding: 20px;
+}
+.mainheader{
+    background-color: blue;
+    color: white;
+}
+.header
+{
+display: flex;
+
+}
+
+#textarea{
+    margin-top:30px ;
+    height:300px;
+    width:150%;
+}
